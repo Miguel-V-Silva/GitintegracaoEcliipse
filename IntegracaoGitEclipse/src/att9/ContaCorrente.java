@@ -4,6 +4,7 @@ public class ContaCorrente {
 	
 	String numero;
 	//recebaaaaa
+	//Fornite battle pass
 	String agencia;
 	boolean especial;
 	double limiteEspecial;
